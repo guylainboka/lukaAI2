@@ -1,0 +1,6 @@
+{
+  "name": "lukaAI",
+  "description": "Trouvez où payer avec votre Mobile Money en temps réel à Abidjan — Restaurants, commerces, rooftops et hôtels acceptant Wave, Orange Money ou Carte sans frais en ligne.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
